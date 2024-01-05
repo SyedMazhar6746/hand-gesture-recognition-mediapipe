@@ -1,4 +1,4 @@
-# our details
+# HRI Project Info
 Run hand_recog.py file for hand-recognition.
 
 
